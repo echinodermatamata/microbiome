@@ -1,4 +1,4 @@
-#' @title Abundance Matrix from Phyloseq
+#' @title Abundance Matrix from Phyloseq-- 2 
 #' @description Retrieves the taxon abundance table from
 #' phyloseq-class object and ensures it is systematically returned as
 #' taxa x samples matrix.
